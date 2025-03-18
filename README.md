@@ -6,9 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like games, series, animes.
   I work with
-  ![language](https://img.shields.io/badge/HTML_5-orange)
-  ![language](https://img.shields.io/badge/CSS_3-blue)
-  ![language](https://img.shields.io/badge/Javascript_3-yellow)
+  ![language](https://img.shields.io/badge/HTML5-orange)
+  ![language](https://img.shields.io/badge/CSS3-blue)
+  ![language](https://img.shields.io/badge/Javascript-yellow)
   
 
 <!---

@@ -5,6 +5,11 @@
 - 📫 How to reach me: It's easy, it just takes effort
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like games, series, animes.
+  I work with
+  ![language](https://img.shields.io/badge/HTML_5-orange)
+  ![language](https://img.shields.io/badge/CSS_3-blue)
+  ![language](https://img.shields.io/badge/Javascript_3-yellow)
+  
 
 <!---
 BeknYTprogamador/BeknYTprogamador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

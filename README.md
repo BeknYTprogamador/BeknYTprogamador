@@ -5,6 +5,7 @@
 - 📫 How to reach me: It's easy, it just takes effort
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like games, series, animes.
+  <br>
   I work with
   ![language](https://img.shields.io/badge/HTML5-orange)
   ![language](https://img.shields.io/badge/CSS3-blue)

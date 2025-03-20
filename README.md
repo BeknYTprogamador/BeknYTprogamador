@@ -8,9 +8,12 @@
   
   <br>
   I work with
-  ![language](https://img.shields.io/badge/HTML5-orange)
-  ![language](https://img.shields.io/badge/CSS3-blue)
-  ![language](https://img.shields.io/badge/Javascript-yellow)
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javasrcipt</li>
+    
+  </ul>
   
 
 <!---

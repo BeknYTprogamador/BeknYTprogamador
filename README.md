@@ -5,6 +5,8 @@
 - 📫 How to reach me: It's easy, it just takes effort
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like games, series, animes.
+- I'm a beginner, don't expect anything
+
   
   <br>
   I work with

@@ -1,21 +1,26 @@
-- 👋 Hi, I’m @BeknYTprogamador
-- 👀 I’m interested in JS/TS and Web programming/game dev
-- 🌱 I’m currently learning: Game dev and Web programmming 
-- 💞️ I’m looking to collaborate setting up an Indie games studio
-- 📫 How to reach me: It's easy, it just takes effort
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like games, series, animes.
-- I'm a beginner, don't expect anything
+# 👋 Hi, I’m BeknYTprogamador  
+- 👀 I’m interested in **JS/TS, Web programming, and Game Development**  
+- 🌱 I’m currently learning **Game Dev and Web Programming**  
+- 💞️ I’m looking to **collaborate in setting up an Indie games studio**  
+- 📫 **How to reach me:** It's easy, it just takes effort  
+- 😄 **Pronouns:** he/him  
+- ⚡ **Fun fact:** I like games, series, and animes.  
+- 🔥 **I'm a beginner, don't expect anything**  
 
-  
-  <br>
-  I work with
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javasrcipt</li>
-    
-  </ul>
+---
+
+## 🚀 **I work with:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
+</p>
+
+---
+
+## 📊 **GitHub Stats**  
+![Bekn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeknYTprogamador&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeknYTprogamador&layout=compact&theme=tokyonight)
   
 
 <!---

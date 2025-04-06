@@ -20,7 +20,8 @@
 ## 🎥 **My YouTube Channel**  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@Bekn01)  
 ## 🔗 My Twitter
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Bekn980482ytx)
+## 🔗 Me acompanhe no Twitter!  
+[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bekn980482ytx)
 
 
 ## 🔗 **My Bio**  

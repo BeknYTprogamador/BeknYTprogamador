@@ -19,8 +19,7 @@
 ## 🤝 **Connect with me:**  
 ## 🎥 **My YouTube Channel**  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@Bekn01)  
-## 🔗 My Twiter
-## 🔗 Me acompanhe no X!  
+## 🔗 My Twitter
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Bekn980482ytx)
 
 

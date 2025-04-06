@@ -19,6 +19,9 @@
 ## 🤝 **Connect with me:**  
 ## 🎥 **My YouTube Channel**  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@Bekn01)  
+## 🔗 My Twiter
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Bekn980482ytx)
+
 
 ## 🔗 **My Bio**  
 [![My Bio](https://img.shields.io/badge/My%20Bio-000000?style=for-the-badge&logo=github&logoColor=white)](https://beknytprogamador.github.io/My-bio-Bekn/)

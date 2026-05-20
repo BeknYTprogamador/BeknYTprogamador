@@ -14,7 +14,16 @@
 - **Languages:** JavaScript (ES6+), TypeScript (basic)  
 - **Web Development:** HTML5, CSS3, React.js  
 - **Version Control:** Git & GitHub  
-- **Other Interests:** IT fundamentals, automation, and AI tools  
+- **Other Interests:** IT fundamentals, automation, and AI tools
+
+---
+
+
+## 🌐 Spoken Languages  
+- **English** 🇬🇧 — B1 (Intermediate)  
+- **Portuguese** 🇧🇷 — C2 (Native)  
+
+  
 
 ---
 

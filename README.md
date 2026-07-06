@@ -1,4 +1,8 @@
+![Bekn Header](https://dummyimage.com/1200x250/0d1117/ffffff&text=BeknYTprogamador+%7C+Junior+QA+Tester)
+
+
 # 👋 Hi, I’m BeknYTprogamador  
+
 
 I’m a motivated junior QA tester living in Lisbon, Portugal, focused on manual testing, bug reporting, and improving user experience. I enjoy understanding how websites behave, finding inconsistencies, and making digital products more reliable.  
 

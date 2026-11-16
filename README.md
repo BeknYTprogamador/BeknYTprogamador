@@ -4,7 +4,7 @@
 # 👋 Hi, I’m BeknYTprogamador  
 
 
-I’m a motivated junior QA tester living in Lisbon, Portugal, focused on manual testing, bug reporting, and improving user experience. I enjoy understanding how websites behave, finding inconsistencies, and making digital products more reliable.  
+I’m a motivated junior QA tester living in Almada, Portugal, focused on manual testing, bug reporting, and improving user experience. I enjoy understanding how websites behave, finding inconsistencies, and making digital products more reliable.  
 
 Even as a teenager, I’ve already tested multiple real projects, written structured bug reports, created test cases, analyzed documentation, and communicated directly with developers to confirm issues. My goal is to grow as a QA tester and continue building a strong foundation in software quality.
 
